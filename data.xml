@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<operations>
+    <operation>
+        <id>1</id>
+        <num1>22</num1>
+        <num2>33</num2>
+        <type>sum</type>
+        <result>55</result>
+    </operation>
+    <operation1 id="1" num1="22" num2="33" result="55" />
+    <operation1 id="1" num1="22" num2="33" result="55" />
+    <operation1 id="1" num1="22" num2="33" result="55" />
+    <operation1 id="1" num1="22" num2="33" result="55" />
+</operations>

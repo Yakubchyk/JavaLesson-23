@@ -1,0 +1,26 @@
+[
+  {
+    "bul": true,
+    "id": 1,
+    "num1": 23,
+    "num2": 22,
+    "type": "sum",
+    "result": 55,
+    "tags": ["test1", "test2", "test3"]
+  },
+  {
+    "id": 1,
+    "num1": 2,
+    "num2": 2,
+    "type": "sum",
+    "result": 4,
+    "author":
+    {
+      "id": 1,
+      "num1": 23,
+      "num2": 22,
+      "type": "sum",
+      "result": 55
+    }
+  }
+]
