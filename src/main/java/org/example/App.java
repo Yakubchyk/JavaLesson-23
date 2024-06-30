@@ -10,6 +10,7 @@ public class App {
     public static void main(String[] args) throws IOException {
         HttpServer httpServer = HttpServer.create(new InetSocketAddress(8080), 0);
         httpServer.createContext("/data", new DataHttpHandler());
+        httpServer.createContext("/calc", new CalculatorHttpHandler());
         httpServer.start();
 
 

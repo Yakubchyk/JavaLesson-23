@@ -6,7 +6,7 @@ public class Operation {
     private double result;
     private String type;
 
-    public double getNum1(int i) {
+    public double getNum1() {
         return num1;
     }
 
@@ -14,7 +14,7 @@ public class Operation {
         this.num1 = num1;
     }
 
-    public double getNum2(int i) {
+    public double getNum2() {
         return num2;
     }
 
@@ -22,7 +22,7 @@ public class Operation {
         this.num2 = num2;
     }
 
-    public double getResult(int i) {
+    public double getResult(double result) {
         return result;
     }
 
@@ -30,7 +30,7 @@ public class Operation {
         this.result = result;
     }
 
-    public String getType(String sum) {
+    public String getType() {
         return type;
     }
 
